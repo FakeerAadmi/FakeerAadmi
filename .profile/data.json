@@ -1,0 +1,280 @@
+{
+ "key": "bbab5244",
+ "stars": 0,
+ "contributions": 202,
+ "repos": 13,
+ "followers": 0,
+ "languages": [
+  [
+   "TypeScript",
+   5415275
+  ],
+  [
+   "HTML",
+   2979401
+  ],
+  [
+   "Kotlin",
+   1049916
+  ],
+  [
+   "JavaScript",
+   847219
+  ],
+  [
+   "CSS",
+   495319
+  ],
+  [
+   "Python",
+   331804
+  ],
+  [
+   "C++",
+   19321
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 21,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 4
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "FakeerAadmi",
+   "url": "https://github.com/FakeerAadmi/FakeerAadmi",
+   "text": "Personal GitHub profile rendered with Material 3 Expressive Profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "airsync-mac",
+   "url": "https://github.com/FakeerAadmi/airsync-mac",
+   "text": "AirSync macOS - Bring the forbidden macOS continuity to Android",
+   "fork": true,
+   "stars": 0,
+   "language": "Swift",
+   "topics": []
+  },
+  {
+   "name": "material-components-android",
+   "url": "https://github.com/FakeerAadmi/material-components-android",
+   "text": "[MAINTENANCE MODE] Modular and customizable Material Design UI components for Android",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "nashik-unfiltered",
+   "url": "https://github.com/FakeerAadmi/nashik-unfiltered",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "YTLite",
+   "url": "https://github.com/FakeerAadmi/YTLite",
+   "text": "A flexible enhancer for YouTube on iOS",
+   "fork": true,
+   "stars": 0,
+   "language": "Logos",
+   "topics": []
+  },
+  {
+   "name": "chastity-wellness",
+   "url": "https://github.com/FakeerAadmi/chastity-wellness",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "bedroom-studios",
+   "url": "https://github.com/FakeerAadmi/bedroom-studios",
+   "text": "Handmade desk objects for people with too many open tabs. Small-batch 3D-printed gadgets and brutalist cementware.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": [
+    "3d-printing",
+    "desk-setup",
+    "made-in-india",
+    "cementware",
+    "fidget-toys"
+   ]
+  },
+  {
+   "name": "beauty-scanner-app",
+   "url": "https://github.com/FakeerAadmi/beauty-scanner-app",
+   "text": "Mobile-first skincare scanner app scaffold built with React Native, Expo, and Supabase.",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "solar-dashboard",
+   "url": "https://github.com/FakeerAadmi/solar-dashboard",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "merit-app",
+   "url": "https://github.com/FakeerAadmi/merit-app",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "pulse-app",
+   "url": "https://github.com/FakeerAadmi/pulse-app",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "neko-scores",
+   "url": "https://github.com/FakeerAadmi/neko-scores",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "shreyaswho-legacy",
+   "url": "https://github.com/FakeerAadmi/shreyaswho-legacy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  }
+ ]
+}

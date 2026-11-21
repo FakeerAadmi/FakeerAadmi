@@ -1,0 +1,178 @@
+{
+  "version": 1,
+  "login": "FakeerAadmi",
+  "seed": "#077DFA",
+  "seedFromAvatar": false,
+  "scheme": "expressive",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "socials",
+    "wave"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Shreyas Kulthe",
+    "subtitle": "Work Psychology & Physical Making.\nCAD, 3D printing & the software in between.",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": []
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "school",
+        "label": "MSc in Work Psychology, Loughborough University (First Class)"
+      },
+      {
+        "icon": "print",
+        "label": "CAD & 3D prototyping with Anycubic Kobra 2 Neo"
+      },
+      {
+        "icon": "code",
+        "label": "TypeScript, Next.js, and web systems engineering"
+      },
+      {
+        "icon": "book_2",
+        "label": "Author of Nashik Unfiltered (editorial civic guide)"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tools & disciplines",
+    "groups": [
+      {
+        "title": "Making & CAD",
+        "items": [
+          {
+            "icon": "brand:autodesk",
+            "label": "Fusion 360"
+          },
+          {
+            "icon": "print",
+            "label": "Anycubic Kobra 2 Neo"
+          },
+          {
+            "icon": "view_in_ar",
+            "label": "3D Prototyping"
+          }
+        ]
+      },
+      {
+        "title": "Software & Web",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:tailwindcss",
+            "label": "Tailwind CSS"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Research & Analytics",
+        "items": [
+          {
+            "icon": "psychology",
+            "label": "Work Psychology"
+          },
+          {
+            "icon": "monitoring",
+            "label": "PRISMA Systematic Review"
+          },
+          {
+            "icon": "brand:r",
+            "label": "R"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "shreyaswho",
+      "nashik-unfiltered",
+      "bedroom-studios"
+    ],
+    "overrides": {
+      "shreyaswho": {
+        "text": "Personal website & digital workshop, built with Next.js, GSAP, and Material 3 design tokens.",
+        "shape": "cookie"
+      },
+      "nashik-unfiltered": {
+        "text": "Editorial city directory celebrating historic establishments, craft, and civic culture.",
+        "shape": "cookie"
+      },
+      "bedroom-studios": {
+        "text": "Desk artifacts, spatial fixtures, and functional objects prototyped in Fusion 360.",
+        "shape": "cookie"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": false
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "shreyaswho.com",
+        "url": "https://shreyaswho.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/FakeerAadmi?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
