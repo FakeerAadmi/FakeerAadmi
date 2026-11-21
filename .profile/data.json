@@ -1,37 +1,37 @@
 {
- "key": "c1d2bc7a",
+ "key": "6b9cbc57",
  "stars": 0,
- "contributions": 203,
+ "contributions": 204,
  "repos": 13,
  "followers": 0,
  "languages": [
   [
    "TypeScript",
-   5415275
+   1629939
   ],
   [
    "HTML",
-   2979401
-  ],
-  [
-   "Kotlin",
-   1049916
+   1142540
   ],
   [
    "JavaScript",
-   847219
+   773170
   ],
   [
    "CSS",
-   495319
+   319052
   ],
   [
    "Python",
-   331804
+   309437
   ],
   [
    "C++",
    19321
+  ],
+  [
+   "Dart",
+   15585
   ]
  ],
  "days": [
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 3,
     "day": 21,
     "today": true
    }
@@ -149,7 +149,7 @@
  ],
  "streak": {
   "current": 1,
-  "longest": 4
+  "longest": 5
  },
  "pins": [],
  "all": [
@@ -159,7 +159,7 @@
    "text": "Personal GitHub profile rendered with Material 3 Expressive Profile",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "JavaScript",
    "topics": []
   },
   {
