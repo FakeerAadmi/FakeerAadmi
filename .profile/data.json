@@ -1,33 +1,37 @@
 {
- "key": "4b2f937",
+ "key": "8288abf0",
  "stars": 0,
  "contributions": 127,
  "repos": 7,
  "followers": 0,
  "languages": [
   [
-   "HTML",
-   843488
-  ],
-  [
-   "JavaScript",
-   607712
+   "Java",
+   7907363
   ],
   [
    "TypeScript",
-   570535
+   5415275
+  ],
+  [
+   "HTML",
+   2979401
+  ],
+  [
+   "JavaScript",
+   1204385
   ],
   [
    "Kotlin",
-   413332
+   1060647
   ],
   [
    "CSS",
-   143355
+   495319
   ],
   [
    "Python",
-   31706
+   331804
   ]
  ],
  "days": [
@@ -152,18 +156,18 @@
    "topics": []
   },
   {
-   "name": "charge-science",
-   "url": "https://github.com/FakeerAadmi/charge-science",
-   "text": "Native Android battery intelligence & charging diagnostics for Google Pixel",
+   "name": "anode",
+   "url": "https://github.com/FakeerAadmi/anode",
+   "text": "Real-time battery telemetry, thermals & charging diagnostics for Android (Pixel reference)",
    "fork": false,
    "stars": 0,
    "language": "Kotlin",
    "topics": []
   },
   {
-   "name": "sony-firetv-minimal",
-   "url": "https://github.com/FakeerAadmi/sony-firetv-minimal",
-   "text": "ADB debloat toolkit and setup guide for Sony Bravia & Amazon Fire TV with Projectivy Launcher",
+   "name": "firetv-debloat",
+   "url": "https://github.com/FakeerAadmi/firetv-debloat",
+   "text": "Fire TV debloat toolkit and setup guide for Projectivy Launcher, telemetry blocking, and ad removal",
    "fork": false,
    "stars": 0,
    "language": "Shell",
