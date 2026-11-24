@@ -1,5 +1,5 @@
 {
- "key": "e8a456a4",
+ "key": "ad89d925",
  "stars": 0,
  "contributions": 206,
  "repos": 13,
@@ -7,31 +7,31 @@
  "languages": [
   [
    "TypeScript",
-   1629939
+   5415275
   ],
   [
    "HTML",
-   1142540
+   2979401
   ],
   [
    "JavaScript",
-   773386
+   1204250
+  ],
+  [
+   "Kotlin",
+   1049916
   ],
   [
    "CSS",
-   319052
+   495319
   ],
   [
    "Python",
-   309437
+   331804
   ],
   [
    "C++",
    19321
-  ],
-  [
-   "Dart",
-   15585
   ]
  ],
  "days": [
@@ -133,7 +133,7 @@
  ],
  "streak": {
   "current": 0,
-  "longest": 5
+  "longest": 4
  },
  "pins": [],
  "all": [

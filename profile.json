@@ -10,6 +10,7 @@
     "hero",
     "about",
     "stack",
+    "edc",
     "projects",
     "stats",
     "streak",
@@ -37,6 +38,10 @@
       {
         "icon": "print",
         "label": "CAD & 3D prototyping with Anycubic Kobra 2 Neo"
+      },
+      {
+        "icon": "brand:android",
+        "label": "Android architecture, OS internals & open mobile systems"
       },
       {
         "icon": "code",
@@ -69,8 +74,12 @@
         ]
       },
       {
-        "title": "Software & Web",
+        "title": "Software & Systems",
         "items": [
+          {
+            "icon": "brand:android",
+            "label": "Android OS & Arch"
+          },
           {
             "icon": "brand:typescript",
             "label": "TypeScript"
@@ -172,6 +181,58 @@
         "label": "All repositories",
         "url": "https://github.com/FakeerAadmi?tab=repositories",
         "style": "tonal"
+      }
+    ]
+  },
+  "edc": {
+    "title": "Daily gear & EDC",
+    "groups": [
+      {
+        "title": "Mobile & OS",
+        "items": [
+          {
+            "icon": "smartphone",
+            "label": "Google Pixel 8a"
+          },
+          {
+            "icon": "brand:apple",
+            "label": "iPhone 12 mini"
+          },
+          {
+            "icon": "brand:apple",
+            "label": "iPhone 11"
+          }
+        ]
+      },
+      {
+        "title": "Computing",
+        "items": [
+          {
+            "icon": "laptop_mac",
+            "label": "MacBook Air M1"
+          },
+          {
+            "icon": "desktop_windows",
+            "label": "Lenovo L340"
+          }
+        ]
+      },
+      {
+        "title": "Audio & Wearables",
+        "items": [
+          {
+            "icon": "headphones",
+            "label": "Sony WH-1000XM3"
+          },
+          {
+            "icon": "headphones",
+            "label": "Galaxy Buds 2"
+          },
+          {
+            "icon": "watch",
+            "label": "Galaxy Fit 3"
+          }
+        ]
       }
     ]
   }

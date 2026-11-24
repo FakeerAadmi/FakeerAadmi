@@ -6,6 +6,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tools &amp; disciplines"></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/edc-dark.svg"><img src="assets/edc-light.svg" width="100%" alt="Daily gear &amp; EDC"></picture>
+
 <a href="https://github.com/FakeerAadmi/nashik-unfiltered"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nashik-unfiltered-dark.svg"><img src="assets/project-nashik-unfiltered-light.svg" width="49%" alt="nashik-unfiltered"></picture></a>&nbsp;<a href="https://github.com/FakeerAadmi/bedroom-studios"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-bedroom-studios-dark.svg"><img src="assets/project-bedroom-studios-light.svg" width="49%" alt="bedroom-studios"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
